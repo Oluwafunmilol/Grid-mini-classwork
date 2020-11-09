@@ -7,7 +7,7 @@ Exercise on how to use grid.
 . 
 
 # Project screenshoot
-![This is an alt text](/assets/images/screenshot.PNG "This is a sample logo")
+![This is an alt text](./assets/images/screenshot.png) "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/Grid-mini-classwork.git)
